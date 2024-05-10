@@ -14,7 +14,7 @@ let nota4 = parseFloat(prompt("Digite a quarta nota: "));
 
 
 let media = (nota1 + nota2 + nota3 + nota4) / 4
-console.log(media)
+console.log(media.toFixed(2))
 
 if (media >= 7.0) {
     console.log("APROVADO");
