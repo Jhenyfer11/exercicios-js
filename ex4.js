@@ -20,7 +20,7 @@ if (media >= 7.0) {
     console.log("APROVADO");
 }
 
-else if (media >= 5.0){
+else if (media < 7 && media >= 5){
     console.log("RECUPERAÇÃO");
 }
 

@@ -13,3 +13,7 @@ if (num1 < num2 && num2 < num3){
 else {
     console.log("não está em ordem crescente");
 }
+
+
+// desafio
+//Informe se os n[umero estão em ordem crescente / decrescente / não ordenado

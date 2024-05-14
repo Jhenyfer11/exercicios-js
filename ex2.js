@@ -3,7 +3,7 @@
 // e exibe o nome correspondente a esse dia.
 //Considere que 1 representa segunda-feira, 2 representa terça-feira e assim por diante.
 
-const diadaSemana = prompt("Digite um número de 1 a 7 para representar um dia da semana. Lembrando que 1 representa segunda-feira, 2 representa terça-feira e assim por diante. ")
+let diadaSemana = prompt("Digite um número de 1 a 7 para representar um dia da semana. Lembrando que 1 representa segunda-feira, 2 representa terça-feira e assim por diante. ")
 
 switch (diadaSemana) {
 
